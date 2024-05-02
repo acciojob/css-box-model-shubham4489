@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+#p{
+	width:300px;
+	background-color:light blue;
+	border:15px solid blue;
+	padding:50px;
+	margin:20px;
+}
+p{
+	background-color:light blue;
+	border:1px dashed;
+}
